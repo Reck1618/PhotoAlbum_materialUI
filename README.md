@@ -1,6 +1,6 @@
 # Description
 
-This is a simple react project, photo album, built with material UI.
+This is a simple react project, photo album, built with material UI framework.
 The main goal of this project was to learn material UI.
 
 ## Available Scripts
