@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple react project, photo album, built with material UI.
+The main goal of this project was to learn material UI.
 
 ## Available Scripts
 
