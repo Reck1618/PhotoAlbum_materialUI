@@ -2,9 +2,13 @@
 
 This is a simple react project, photo album, built with material UI framework.
 The main goal of this project was to learn material UI.
-![alt text](https://github.com/Reck1618/PhotoAlbum_materialUI/blob/master/images/mobile_view.png?raw=true)
+
+# Project Images
+
 ![alt text](https://github.com/Reck1618/PhotoAlbum_materialUI/blob/master/images/header.png?raw=true)
 ![alt text](https://github.com/Reck1618/PhotoAlbum_materialUI/blob/master/images/footer.png?raw=true)
+![alt text](https://github.com/Reck1618/PhotoAlbum_materialUI/blob/master/images/mobile_view.png?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
